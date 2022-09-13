@@ -1,0 +1,12 @@
+{
+  "name": "capacitor-cli-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": "true",
+  "repository": "git@github.com:Marcoru97/capacitor-cli-demo.git",
+  "license": "MIT",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
